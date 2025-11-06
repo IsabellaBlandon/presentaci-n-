@@ -1,4 +1,4 @@
-# 🌸 Isabella Susana Blandón Escobar (IsSu)
+# 🌸 Isabella Susana Blandón Escobar 
 
 [![GitHub followers](https://img.shields.io/github/followers/IsSu?label=Follow&style=social)](https://github.com/IsSu)
 [![Top Langs](https://img.shields.io/github/languages/top/IsSu/placeholder-repo?color=blue)](#)
